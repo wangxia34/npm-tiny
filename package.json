@@ -1,4 +1,13 @@
 {
   "name": "wangxia-tiny",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "wangxia/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package"
+  ]
 }
